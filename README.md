@@ -1,4 +1,5 @@
 # Portfolio-3.0
+![React App (1)](https://user-images.githubusercontent.com/100823810/183010053-dd41d46b-073c-45a4-86be-9f216e4a0dfb.gif)
 
 ## Description
 A single page Portfolio using React. made to demonstrate experience with SPA's
