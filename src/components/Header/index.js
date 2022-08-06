@@ -24,8 +24,8 @@ function Header() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <header><h1>Michael Peterson</h1>
-    <div>
+    <header  ><h1 className='App-header'>Michael Peterson <img className='img-thumbnail' alt='michael peterson' src='https://user-images.githubusercontent.com/100823810/183262193-2c6b62b1-ace0-435c-a5b2-ffe647650d44.jpeg'/></h1>
+    <div >
      
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
      
